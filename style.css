@@ -1,0 +1,100 @@
+body{
+  font-family: sans-serif;
+
+}
+
+h1{
+  color: rgb(214, 61, 112);
+  text-align: center;
+}
+h2{
+  color: rgb(228, 77, 77);
+  
+}
+h3{
+  color: rgb(228, 77, 77);
+  font-size: 25px;
+}
+h4{
+  color: rgb(228, 77, 77);
+  font-size: 25px;
+}
+h5{
+  color:rgb(228, 77, 77) ;
+  font-size: 25px;
+}
+h6{
+  color: rgb(228, 77, 77);
+  font-size: 25px;
+  margin: 0;
+}
+h7{
+    color: rgb(228, 77, 77);
+    font-size: 25px;
+}
+h8{
+  color: rgb(228, 77, 77);
+  font-size: 25px;
+}
+p{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(28, 159, 198, 0.529);
+    padding: 10px;
+    border-radius: 10px;
+}
+footer {
+  text-align: center;  
+  display: flex;
+  justify-content: center;
+}
+nav{
+    display: flex;
+justify-content: space-around;
+
+}
+main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.I{
+  background-color:  pink;
+  color: black;
+}
+.rip{
+  background-color: pink;
+}
+.rett{
+  
+  background-color: pink;
+}
+.dggg{
+  background-color: pink;
+}
+a{
+   justify-content: center;
+   padding: 15px;
+   border-radius: 10px;
+   text-decoration: none;
+   color: black;
+}
+
+section{
+background-color: rgb(255, 220, 220);
+padding: 20px;
+border-radius: 20px;
+margin-top: 30px;
+width: 800px;
+}
+
+img{
+    border-radius: 10px;
+}
+.type{
+    background-color: pink;
+}
+.fgdg{
+    background-color: pink;
+}
+
